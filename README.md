@@ -160,7 +160,7 @@ Want the shop UI shown in the demo on your server?
 
 **[Purchase cf_shops on Tebex](https://core-forge.tebex.io/)**
 
-The purchase includes the resource and its source files.
+The purchase includes the resource.
 
 ---
 
